@@ -51,6 +51,9 @@ flowchart LR
 
     PA --> RESP[Respond as Telegram Message]
 ```
+---
+
+[![Watch the Project](https://raw.githubusercontent.com/AIS-n8n-Templates/11.-Personal-Assistant-2.0-n8n/main/Thumbnail.png)](https://www.youtube.com/watch?v=u3CXyEqUzIc)
 
 ---
 
